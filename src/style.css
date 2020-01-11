@@ -1,0 +1,36 @@
+body {
+  background: linear-gradient(180deg, lightblue, lightpink);
+  text-align: center;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-size: 100px;
+}
+
+h3 {
+  color: black;
+  text-align: center;
+  font-size: 33px;
+}
+#image {
+  height: auto;
+  max-width: 100%;
+  border-color: white;
+  border-width: 10px;
+  border-style: solid;
+  border-radius: 25px;
+}
+#img-caption {
+  font-size: 10px;
+  font-color: white;
+}
+p {
+  font-family: monospace;
+  font-size: 13px;
+}
+#tribute-link {
+  font-family: monospace;
+  font-size: 13px;
+}
